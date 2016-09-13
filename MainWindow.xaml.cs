@@ -545,5 +545,5 @@ namespace ShapeGame
     }
 }
 
-//2016/09/13 yamagisi
+//2016/09/13 yamagisi yamada
 //C:\H28創造工学\ShapeGame\Properties\Resources.Designer.cs
