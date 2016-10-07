@@ -1,1 +1,5 @@
 C:\Users\teacher\Documents\kinect_4ei_yamada2\bin\Debug\ShapeGame.exe.config
+C:\Users\teacher\Documents\kinect_4ei_yamada2\obj\Debug\ShapeGame.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Documents\kinect_4ei_yamada2\obj\Debug\App.g.cs
+C:\Users\teacher\Documents\kinect_4ei_yamada2\obj\Debug\ShapeGame_Content.g.cs
+C:\Users\teacher\Documents\kinect_4ei_yamada2\obj\Debug\ShapeGame_MarkupCompile.cache

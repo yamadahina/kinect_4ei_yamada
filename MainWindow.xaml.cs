@@ -542,6 +542,16 @@ namespace ShapeGame
 
 
         #endregion Kinect Speech processing
+
+        #region Kinect Menu
+
+        private void ButtonClicked(object sender, RoutedEventArgs e)
+        {
+            System.Windows.MessageBox.Show("ボタンが押されました");
+            e.Handled = true;
+        }
+
+        #endregion Kinect Menu
     }
 }
 

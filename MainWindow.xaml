@@ -29,6 +29,8 @@
                     <Image x:Name="Image2" HorizontalAlignment="Left" Height="142" VerticalAlignment="Top" Width="251" Source="C:\H28創造工学\ShapeGame\ドラム.png" Canvas.Left="306" Canvas.Top="414"/>
                 </Canvas>
 
+                <Button Click="ButtonClicked">ここを押して</Button>
+
                 <toolkit:KinectSensorChooserUI x:Name="SensorChooserUI" IsListening="True"  HorizontalAlignment="Center" VerticalAlignment="Top" />
             </Grid>
             <CheckBox x:Name="enableAec" Foreground="White" FontSize="20" Margin="19,0,0,18" HorizontalAlignment="Left" VerticalAlignment="Bottom" Visibility="Collapsed" Checked="EnableAecChecked" Unchecked="EnableAecChecked" IsEnabled="False">
